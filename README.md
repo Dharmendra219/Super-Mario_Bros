@@ -18,7 +18,6 @@ This project is built using JAVA and leverages SWING. The game logic is implemen
 <h4>🌱 Project Goals:</h4>
 - Create an enjoyable and authentic Super Mario gaming experience.
 - Improve my skills in game development, including character control.
-- Explore various game mechanics and learn how to implement them effectively.
-
-🎉 Thank you for checking out my Super Mario game project! I hope you enjoy playing it as much as I enjoyed creating it. Feel free to share your feedback and suggestions. Happy gaming! 🎉
+- Explore various game mechanics and learn how to implement them effectively.<br>
+<br>🎉 Thank you for checking out my Super Mario game project! I hope you enjoy playing it as much as I enjoyed creating it. Feel free to share your feedback and suggestions. Happy gaming! 🎉
 
